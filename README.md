@@ -1,7 +1,7 @@
 
 # Todas las palabras son los hombres
 
-***Una dataset con las letras de Luis Alberto Spinetta***
+***Un dataset con las letras de Luis Alberto Spinetta***
 
 ![](figures/LAS_todaslaspalabras.png)
 
